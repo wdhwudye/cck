@@ -1,18 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-<!-- 必填的Open Graph协议 -->
-<meta property="og:title" content="6月の急騰株情報">
-<meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
-<meta property="og:url" content="https://您的完整网页URL">
-
-<!-- Twitter专用标签 -->
-<meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
-<meta name="twitter:site" content="@Tonpin1234">
-<meta name="twitter:title" content="6月の急騰株情報">
-<meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
-<meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>トンピンの投資道</title>
@@ -312,4 +299,4 @@
     });
   </script>
 </body>
-</html>
+</html> 
