@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
 <meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
@@ -201,7 +200,7 @@
       }
     }
   </style>
-</head>
+
 <body>
   <div class="container">
     <!-- Hero Section -->
